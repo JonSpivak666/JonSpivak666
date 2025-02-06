@@ -1,5 +1,3 @@
-![Banner](image.png)
-
 # 🔢🔬 Hola, Soy Jon! 🧠🚀
 
 ## 🚀 Acerca de Mí
