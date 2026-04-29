@@ -4,7 +4,7 @@
 
 Soy **Ingeniero Civil** egresado de la **UNAM** con un enfoque híbrido en **Ingeniería Estructural** y el desarrollo de **Soluciones Tecnológicas**. Mi especialidad es la creación de herramientas de automatización y el despliegue de modelos de Inteligencia Artificial (LLMs y Machine Learning) para optimizar procesos en la industria de la construcción y administración técnica.
 
-Actualmente me desempeño como **Ingeniero Estructural Jr** en **RGO Estructuras Metálicas**, donde lidero la digitalización de flujos operativos mediante aplicaciones personalizadas en la nube y realizo el cálculo y diseño de proyectos en acero.
+Mi ultimo empleo fue como **Ingeniero Estructural Jr** en **RGO Estructuras Metálicas**, donde lidero la digitalización de flujos operativos mediante aplicaciones personalizadas en la nube y realizo el cálculo y diseño de proyectos en acero.
 
 ### 🏆 Experiencia Destacada:
 
@@ -12,6 +12,9 @@ Actualmente me desempeño como **Ingeniero Estructural Jr** en **RGO Estructuras
 * **Automatización con APIs de Python:** Desarrollo de middleware e integración de **APIs de Python** con software especializado (**SAP2000, ETABS, Tekla**) para automatizar simulaciones y análisis predictivos.
 * **IA y Modelado Matemático:** Aplicación de procesos estocásticos, ecuaciones diferenciales y modelos de optimización para resolver problemas complejos de ingeniería y logística.
 * **IA Generativa:** Fine-tuning de LLMs para tareas administrativas y modelos de series temporales para proyecciones técnicas.
+* **Data Pipelines:** Especialista en procesos **ETL** para la integración de datos de ingeniería y logística
+* **Ciencia de Datos:** Especialista en el desarrollo de modelos de **Machine Learning** para la resolución de problemas técnicos
+* **Dashboards:** Especialista en la creación de tableros interactivos en **Power BI** y **Streamlit** para la visualización de indicadores de obra y gestión financiera.
 
 
 
@@ -33,8 +36,7 @@ Actualmente me desempeño como **Ingeniero Estructural Jr** en **RGO Estructuras
 ### 🔹 Cloud & Big Data
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### 🏗️ Structural Software & Automation
 * **Diseño Estructural:** Uso avanzado de **SAP2000**, **ETABS** y **Tekla Structures**.
